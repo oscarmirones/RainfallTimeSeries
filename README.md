@@ -1,2 +1,2 @@
 # RainfallTimeSeries
-Information about time series of severallocations
+Information about time series of several locations
